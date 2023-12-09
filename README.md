@@ -1,4 +1,4 @@
-forked from https://github.com/karpathy/makemore
+forked from https://github.com/karpathy/makemore and https://github.com/karpathy/micrograd
 
 
 # makemore

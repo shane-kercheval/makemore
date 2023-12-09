@@ -1,6 +1,7 @@
 click
 coverage
 flake8
+graphviz
 helpsk
 jupyter-contrib-nbextensions
 notebook
